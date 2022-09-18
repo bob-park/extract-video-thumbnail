@@ -1,0 +1,12 @@
+## server
+
+## spring
+
+## logging
+logging:
+  charset:
+    console: UTF-8
+  level:
+    root: info
+    web: debug
+    com.example: debug
